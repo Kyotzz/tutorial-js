@@ -81,10 +81,12 @@ body {
 
 .status {
   margin-bottom: 10px;
+  color: #fff;
 }
 .game {
   display: flex;
   flex-direction: row;
+  color: #fff;
 }
 
 .game-info {
